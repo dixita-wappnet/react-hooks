@@ -9,7 +9,7 @@ export default function A(props) {
     return (
         <div>
             <FirstName.Provider value="John">
-                <LastName.Provider value="Khan">
+                <LastName.Provider value="Wick">
                 {/* <B nam={props.nam}/> */}
                 <B/>
                 </LastName.Provider>
